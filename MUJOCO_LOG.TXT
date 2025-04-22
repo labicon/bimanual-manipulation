@@ -1,0 +1,30 @@
+Sun Mar  9 11:16:38 2025
+WARNING: mju_openResource: unknown file '../mujoco_menagerie/kuka_iiwa_14/scene.xml'
+
+Tue Mar 11 11:33:56 2025
+ERROR: could not create window
+
+Tue Mar 11 11:41:42 2025
+ERROR: could not create window
+
+Tue Mar 11 11:54:54 2025
+ERROR: could not create window
+
+Tue Mar 11 13:55:05 2025
+ERROR: could not create window
+
+Sat Mar 15 20:40:48 2025
+WARNING: mju_openResource: unknown file '/home/kartik/code/bimanual-formal/src/robotic-arm-scenes/kin-kin-scene.xml'
+
+Mon Mar 17 22:50:20 2025
+WARNING: mju_openResource: unknown file '../robotic-arm-model/test_scene.xml'
+
+Mon Mar 24 14:07:14 2025
+WARNING: mju_openResource: unknown file './pushT/pushing_agents.xml'
+
+Mon Mar 24 14:10:59 2025
+WARNING: mju_openResource: unknown file './pushT-scene/bimanual_pushers.urdf'
+
+Tue Mar 25 12:43:20 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 15. The simulation is unstable. Time = 110.3000.
+
