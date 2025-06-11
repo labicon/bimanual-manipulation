@@ -360,6 +360,7 @@
   </worldbody>
 
   <contact>
+    <exclude body1="bob_base_link" body2="bob_shoulder_link"/>
     <exclude body1="bob_base" body2="bob_left_driver"/>
     <exclude body1="bob_base" body2="bob_right_driver"/>
     <exclude body1="bob_base" body2="bob_left_spring_link"/>
@@ -367,6 +368,7 @@
     <exclude body1="bob_right_coupler" body2="bob_right_follower"/>
     <exclude body1="bob_left_coupler" body2="bob_left_follower"/>
 
+    <exclude body1="alice_base_link" body2="alice_shoulder_link"/>
     <exclude body1="alice_base" body2="alice_left_driver"/>
     <exclude body1="alice_base" body2="alice_right_driver"/>
     <exclude body1="alice_base" body2="alice_left_spring_link"/>
